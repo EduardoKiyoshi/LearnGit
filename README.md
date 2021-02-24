@@ -1,2 +1,3 @@
 # LearnGit
-Git Repository to practice Git commands
+
+Feature branch to develop future user cases
