@@ -5,3 +5,7 @@ function test() {
 }
 
 test();
+
+function getClient() {
+  console.log("inside getClient function");
+}
