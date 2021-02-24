@@ -1,7 +1,11 @@
 console.log("Main app is running. Another bigger greater change");
 console.log("Main app logic goes here");
-
 function test() {
-  return 21;
+  console.log("inside test function");
 }
-console.log(test());
+
+test();
+
+function getClient() {
+  console.log("inside getClient function");
+}
